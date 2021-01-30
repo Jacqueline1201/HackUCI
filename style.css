@@ -1,0 +1,33 @@
+body{
+    margin:0;
+    padding:0;
+    background: url(bookpic.jpg);
+    background-size: cover;
+    background-position:center;
+    font-family: sans-serif
+}
+/* Rectangle 16 */
+
+confession_box{
+position: absolute;
+width: 463px;
+height: 435px;
+left: 236px;
+top: 45px;
+
+background: #FFFFFF;
+border-radius: 5px;
+}
+
+/* Rectangle 17 */
+
+title_box{
+position: absolute;
+width: 414px;
+height: 25px;
+left: 261px;
+top: 94px;
+
+background: #C4C4C4;
+border-radius: 5px;
+}
